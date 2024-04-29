@@ -2,7 +2,16 @@
 
 RAG-LlamaIndex is a project aimed at leveraging RAG (Retriever, Reader, Generator) architecture along with Llama-2 and sentence transformers to create an efficient search and summarization tool for PDF documents. This tool allows users to query information from PDF files using natural language and obtain relevant answers or summaries.
 
+# Sample Input and Output
 
+The data utilized in this scenario were research papers on Llama and Gemma.
+Query: Which GPU was used to train LLaMA-65B?
+Output : 
+
+``` py
+Loading checkpoint shards: 100% 2/2 [01:02<00:00, 31.34s/it]
+LLM Output: 65B was trained on A100-80GB.
+```
 # Setup 💻
 
 1. Clone Github Repo: 
