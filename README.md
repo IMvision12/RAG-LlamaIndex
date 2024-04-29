@@ -5,6 +5,7 @@ RAG-LlamaIndex is a project aimed at leveraging RAG (Retriever, Reader, Generato
 # Sample Input and Output
 
 The data utilized in this scenario were research papers on Llama and Gemma.
+
 Query: Which GPU was used to train LLaMA-65B?
 Output : 
 
