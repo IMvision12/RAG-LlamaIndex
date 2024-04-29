@@ -10,7 +10,14 @@ Output :
 
 ``` py
 Loading checkpoint shards: 100% 2/2 [01:02<00:00, 31.34s/it]
-LLM Output: 65B was trained on A100-80GB.
+LLM Output: LLaMA-65B was trained on A100-80GB.
+```
+
+Query: What is count of Embedding Parameters for gemma-2b and gemma-7b?
+Output :
+``` py
+Loading checkpoint shards: 100% 2/2 [01:02<00:00, 31.34s/it]
+According to the context information, the count of embedding parameters for gemma-2b is 524,550,144, and for gemma-7b, it is 786,825,216.
 ```
 # Setup 💻
 
