@@ -45,7 +45,7 @@ $ python utils.py --links https://arxiv.org/pdf/2302.13971 https://arxiv.org/pdf
 4. Run Main.py
 
 ```bash
-$python main.py --data-directory "/content/RAG-LlamaIndex/dat" \
+$python main.py --data-directory "/content/RAG-LlamaIndex/data" \
                 --llm-model "meta-llama/Llama-2-7b-chat-hf" \
                 --embed-model "sentence-transformers/all-mpnet-base-v2" \
                 --hf-api "Your HuggingFace Access Token" \
