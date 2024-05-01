@@ -26,6 +26,8 @@ According to the context information, the count of embedding parameters for gemm
 
 ```bash
 $ git clone https://github.com/IMvision12/RAG-LlamaIndex.git
+```
+```bash
 $ cd RAG-LlamaIndex
 ```
 
