@@ -37,7 +37,7 @@ $ pip install -r requirements.txt
 
 3. Get PDF data
 
-The provided links will download pdf files, which will then be stored in a folder named "data". If you have your own PDF files, please relocate them to the "data" folder.
+  The provided links will download pdf files, which will then be stored in a folder named "data". If you have your own PDF files, please relocate them to the "data" folder.
 ```bash
 $ python utils.py --links https://arxiv.org/pdf/2302.13971 https://arxiv.org/pdf/2403.08295
 ```
